@@ -1,2 +1,2 @@
 # Portfolio
-Djnago app
+Django app
